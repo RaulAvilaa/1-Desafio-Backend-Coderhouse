@@ -1,0 +1,11 @@
+[
+  {
+    "title": "PlayStation 5",
+    "description": "1TB de memoria, 1 juego y 1 joystick",
+    "price": 29.99,
+    "thumbnail": "path/to/playStation5.jpg",
+    "code": "XYZ789",
+    "stock": 25,
+    "id": 2
+  }
+]
