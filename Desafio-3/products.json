@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Playstation 4",
+    "description": "1TB de memoria, 3 juegos y 2 joystick",
+    "price": 19.99,
+    "thumbnail": "path/to/playStation4.jpg",
+    "code": "ABC123",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "PlayStation 5",
+    "description": "1TB de memoria, 1 juego y 1 joystick",
+    "price": 29.99,
+    "thumbnail": "path/to/playStation5.jpg",
+    "code": "XYZ789",
+    "stock": 30
+  }
+]
