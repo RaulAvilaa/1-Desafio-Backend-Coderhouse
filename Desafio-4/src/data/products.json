@@ -1,23 +1,23 @@
 [
   {
-    "title": "COD WW2",
-    "description": "Altos zombies",
-    "price": 670,
-    "thumbnail": "https://www.analisisdigital.com.ar/sites/default/files/styles/noticias_front_desktop/public/imagenNoticiaDigital/f17cqq1waaana0k.png?itok=gTXZQ994&timestamp=1690331455",
+    "title": "FC24",
+    "description": "EA SPORTS FC™ 24 te da la bienvenida a The World's Game: la experiencia futbolística más fiel hasta la fecha.",
+    "price": 3000,
+    "thumbnail": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0214/2d303f56b705633886b50c56e34f12de0ff12d0453c10623.png",
     "code": "ARCM43",
     "stock": 64,
-    "category": "shooter",
+    "category": "Deportes",
     "status": true,
     "id": 1
   },
   {
-    "title": "Battlefront 2",
-    "description": "Best sw game",
-    "price": 452,
-    "thumbnail": "https://www.analisisdigital.com.ar/sites/default/files/styles/noticias_front_desktop/public/imagenNoticiaDigital/f17cqq1waaana0k.png?itok=gTXZQ994&timestamp=1690331455",
+    "title": "NBA 2K24",
+    "description": "Experimenta la cultura del baloncesto en NBA 2K24. Crea tu quinteto de ensueño en MyTEAM.",
+    "price": 2500,
+    "thumbnail": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/03f24f06573f21a2b3b5279b26205b0f882acf8a31d5dabd.png",
     "code": "ORDR66",
     "stock": 4,
-    "category": "shooter",
+    "category": "Deportes",
     "status": true,
     "id": 2
   }
