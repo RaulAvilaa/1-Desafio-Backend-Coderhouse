@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "PS4",
+    "description": "PS4 Slim 1TB",
+    "price": "499",
+    "stock": "10",
+    "category": "Electrónico",
+    "image": "ps4.png"
+  },
+  {
+    "id": 2,
+    "title": "PS5",
+    "description": "PS5 Slim 1TB Digital",
+    "price": "799",
+    "stock": "10",
+    "category": "Electrónico",
+    "image": "ps.png"
+  },
+  {
+    "id": 3,
+    "title": "Nintendo",
+    "description": "Nintendo switch Oled 64gb",
+    "price": "490",
+    "stock": "10",
+    "category": "Electrónico",
+    "image": "nintendo.png"
+  },
+  {
+    "id": 4,
+    "title": "Colección de Harry Potter",
+    "description": "Saga Harry Potter",
+    "price": "3993",
+    "stock": "10",
+    "category": "Libros",
+    "image": "saga.jpg"
+  },
+  {
+    "id": 5,
+    "title": "PS4",
+    "description": "PS4 Slim Call of Duty Modern Warfare ll",
+    "price": "679",
+    "stock": "10",
+    "category": "Electrónica",
+    "image": "ps4.png"
+  },
+  {
+    "id": 6,
+    "title": "PS5",
+    "description": "PS5 con lectora de disco",
+    "price": "819",
+    "stock": "10",
+    "category": "Electrónica",
+    "image": "ps.png"
+  },
+  {
+    "id": 7,
+    "title": "PS5",
+    "description": "PS5 God of War 825gb",
+    "price": "999",
+    "stock": "10",
+    "category": "Electrónica",
+    "image": "ps.png"
+  }
+]
