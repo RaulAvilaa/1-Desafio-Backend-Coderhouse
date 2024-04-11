@@ -9,6 +9,8 @@
 
  Carpeta "Desafío-4" contiene el desafío - Websockets + Handlebars.
 
-
  Carpeta "Desafío-5" contiene el desafío - Práctica de integración sobre el ecommerce.
 
+ Carpeta "Desafío-6" contiene el desafío - Implementación de Login.
+
+  Carpeta "Desafío-7" contiene el desafío - Refactor a nuestro Login.
