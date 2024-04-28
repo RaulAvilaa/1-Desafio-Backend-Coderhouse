@@ -14,3 +14,5 @@
  Carpeta "Desafío-6" contiene el desafío - Implementación de Login.
 
   Carpeta "Desafío-7" contiene el desafío - Refactor a nuestro Login.
+
+  Carpeta "Desafío-8" contiene el desafío - Práctica de integración.
