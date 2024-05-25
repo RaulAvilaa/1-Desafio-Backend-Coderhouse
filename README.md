@@ -16,3 +16,7 @@
   Carpeta "Desafío-7" contiene el desafío - Refactor a nuestro Login.
 
   Carpeta "Desafío-8" contiene el desafío - Práctica de integración.
+
+  Carpeta "Desafío-9" contiene el desafío - Restructura del servidor.
+
+  Carpeta "Desafío-10" contiene el desafío - Mocking y manejo de errores.
