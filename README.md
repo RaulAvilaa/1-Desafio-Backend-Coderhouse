@@ -20,3 +20,5 @@
   Carpeta "Desafío-9" contiene el desafío - Restructura del servidor.
 
   Carpeta "Desafío-10" contiene el desafío - Mocking y manejo de errores.
+
+  Carpeta "Desafío-11" contiene el desafío - Implementación de logger.
