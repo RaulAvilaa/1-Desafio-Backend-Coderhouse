@@ -22,3 +22,5 @@
   Carpeta "Desafío-10" contiene el desafío - Mocking y manejo de errores.
 
   Carpeta "Desafío-11" contiene el desafío - Implementación de logger.
+
+  Carpeta "Desafío-12" contiene el desafío - Práctica de integración sobre el ecommerce.
