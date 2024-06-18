@@ -24,3 +24,5 @@
   Carpeta "Desafío-11" contiene el desafío - Implementación de logger.
 
   Carpeta "Desafío-12" contiene el desafío - Práctica de integración sobre el ecommerce.
+
+  Carpeta "Desafío-13" contiene el desafío - Documentar API.
