@@ -26,3 +26,5 @@
   Carpeta "Desafío-12" contiene el desafío - Práctica de integración sobre el ecommerce.
 
   Carpeta "Desafío-13" contiene el desafío - Documentar API.
+
+  Carpeta "Desafío-14" contiene el desafío - Módulos de Testing.
